@@ -1,0 +1,4 @@
+llama-cpp-python>=0.3.8
+python-dotenv>=1.0.1
+pyvts>=0.3.3
+simpleaudio>=1.0.4
